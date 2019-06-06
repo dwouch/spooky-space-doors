@@ -17,7 +17,7 @@ public class InventoryLootItem : MonoBehaviour
     private Rigidbody obj;
 
 
-    public void onCreate() { }
+    public virtual void onCreate() { }
 
     public void use() { }
 

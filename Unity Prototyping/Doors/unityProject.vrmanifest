@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.doors.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "G:\\Work\\GitRepo\\spooky-space-doors\\Unity Prototyping\\Doors\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Doors [Testing]"
+        }
+      }
+    }
+  ]
+}

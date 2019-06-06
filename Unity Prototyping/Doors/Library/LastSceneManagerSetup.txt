@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/TNG Captain's Lamp.unity
+- path: Assets/Scenes/VRVF1.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
